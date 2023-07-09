@@ -25,3 +25,5 @@
     ![Image test](https://gitee.com/jin-wang11/AR_Face_Mask/blob/master/image/doc/Annotation.jpg)
 
 2. 注意在mask.py里将图片以及csv文件改成自己的路径，运行:python mask.py
+3. 效果图如下：  
+    ![Image test](https://gitee.com/jin-wang11/AR_Face_Mask/blob/master/image/doc/result.gif)
